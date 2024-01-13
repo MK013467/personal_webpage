@@ -1,0 +1,66 @@
+/* General body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  /* Header styling */
+  header {
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  header img {
+    max-width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  /* Navbar styling */
+  .navbar {
+    margin-bottom: 40px;
+  }
+  
+  /* Section styling */
+  section {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* About section */
+  #about {
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+  }
+  
+  /* Projects section */
+  #projects {
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+  }
+  
+  /* Project item styling */
+  .project-item {
+    margin-bottom: 30px;
+  }
+  
+  /* Footer styling */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
